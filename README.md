@@ -1,7 +1,10 @@
 # SLAM_cartographer_with_target_detection
  Development of the UAV for reconnaissance in battlefield situation <br /><br /><br />
  
- 
+
+<img src="poster.PNG" alt="poster" width=90% height=auto title="outputs"/>
+
+
  ## Requirement
 
  - python3, ubuntu18.04
@@ -20,4 +23,3 @@
 (2) https://blog.naver.com/busanbak2000/222363430316
 <br /><br /><br />
 
-<img src="최종결과.JPG" width=90% height=auto title="outputs"/>
